@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MEDICAL.About">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAIECAAAAAAAACABAgGAADwIAAAAECAAAAAAAA=</HashCode>
+      <FileName>About.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.changepass" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAkECAAABAAQAiAAAACAACAAIAAAAAAAAAACAA=</HashCode>
+      <FileName>changepass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.empdetail" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAmAHESACACAEgACQUCCCCwA4JwCIAAAFJAAAAQA=</HashCode>
+      <FileName>empdetail.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.empreportvb" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAACACBAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>empreportvb.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.empsalary" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAkiEUSACEKQAACCEACACASA4LgCAEAAAJAAACUA=</HashCode>
+      <FileName>empsalary.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.Login" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAEABQQECAIAAAEBgmAAAACAAAAAAAAgEISAAAAAQA=</HashCode>
+      <FileName>Login.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.main" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEBAQgEQlahQCIBBUAGAAMAjUjAEIKiAyAAKSCUAJAg=</HashCode>
+      <FileName>main.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.MEDDATADataSet" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABBAAQAAAAAoCQHkgIAEAEAFABDA=</HashCode>
+      <FileName>MEDDATADataSet.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.medicinedetail" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgkAUESAYAAQAACCBEAGCAQC4IwCAAAAEJAMQCQA=</HashCode>
+      <FileName>medicinedetail.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.newemp" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABICAEECACAgAEAACQQAACCAAAIAAIAAARAAAACAA=</HashCode>
+      <FileName>newemp.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.newmedicine" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgABIEAQESAIIAAAAECAAAGCAAAAAAAAAAAQAAIACAA=</HashCode>
+      <FileName>newmedicine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.neworder" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IggBIEAEESAgAAAiBBCgAABCEAAwAAEAAEAQAAAACQA=</HashCode>
+      <FileName>neworder.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.newsalary" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIEgAESACAAAAAACEQCACAAAAAAAAAQARAAAIAAA=</HashCode>
+      <FileName>newsalary.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.newsale" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCBIsAEMSAAACEAAKGAAMAjAAhwAIAAAEQQBAICCAE=</HashCode>
+      <FileName>newsale.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.newsupplier" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABIEAEESAAAAQAAACAQAACgAYIBAAAAAAYAAgACAA=</HashCode>
+      <FileName>newsupplier.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.orderdetail" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAkAEFSBIAAAwBRCgAABCAQC4ZwCAAACJJAAAIQg=</HashCode>
+      <FileName>orderdetail.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.sales" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAkAEESQAEAEQAACAEAkDAQi4ZwSEAAAEJAIgCQA=</HashCode>
+      <FileName>sales.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.search" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAAAEAAESAAAAAAAACAEAAGAgAQBAQAACAAAAAAAAA=</HashCode>
+      <FileName>search.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.SplashScreen1" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAECAAMAAAAACAAAACAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>SplashScreen1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.stock" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAkAAA6AAAAAAAAiAAAACAUAYBAAAAAAAJAAAAAA=</HashCode>
+      <FileName>stock.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.supplier" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAkAkESAIBAQAAACQUAACgQQ4ZACAAAAMJAAAAQA=</HashCode>
+      <FileName>supplier.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.usercreation" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAEECAAAQAAAQCIAEACAAAQAAAAAQAABAAACAA=</HashCode>
+      <FileName>usercreation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.MEDDATADataSetTableAdapters.tbl_empinfoTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.MEDDATADataSetTableAdapters.tbl_empsalaryTableAdapter" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.MEDDATADataSetTableAdapters.tbl_orderTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.MEDDATADataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACQAIABAhAMBQgAAcAAgAAAKgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.My.MyApplication" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDICAL.My.MySettings" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABAAIAAABBABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="MEDICAL.general" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAgAAQAAwACAECAQAAEACAAAACIAACAAAAAgA=</HashCode>
+      <FileName>general.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="MEDICAL.My.MySettingsProperty" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="MEDICAL.My.Resources.Resources">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
